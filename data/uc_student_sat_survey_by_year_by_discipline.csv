@@ -1,0 +1,433 @@
+﻿Category,Year,Response,Count,Diverge Pct Abs,Diverge Pct
+Arts,2022,Somewhat Dissatisfied,395,0.177927928,-0.177927928
+Arts,2020,Somewhat Dissatisfied,455,0.190855705,-0.190855705
+Arts,2018,Somewhat Dissatisfied,346,0.175367461,-0.175367461
+Arts,2016,Somewhat Dissatisfied,309,0.160186625,-0.160186625
+Arts,2014,Somewhat Dissatisfied,329,0.161591356,-0.161591356
+Arts,2012,Somewhat Dissatisfied,338,0.180266667,-0.180266667
+Arts,2010,Somewhat Dissatisfied,461,0.188857026,-0.188857026
+Arts,2008,Somewhat Dissatisfied,479,0.170159858,-0.170159858
+Arts,2006,Somewhat Dissatisfied,425,0.165369650,-0.165369650
+Arts,2022,Dissatisfied,248,0.111711712,-0.111711712
+Arts,2020,Dissatisfied,281,0.117869128,-0.117869128
+Arts,2018,Dissatisfied,203,0.102889002,-0.102889002
+Arts,2016,Dissatisfied,209,0.108346293,-0.108346293
+Arts,2014,Dissatisfied,213,0.104616896,-0.104616896
+Arts,2012,Dissatisfied,243,0.1296,-0.1296
+Arts,2010,Dissatisfied,270,0.110610406,-0.110610406
+Arts,2008,Dissatisfied,235,0.083481350,-0.083481350
+Arts,2006,Dissatisfied,259,0.100778210,-0.100778210
+Arts,2022,Very Dissatisfied,139,0.062612613,-0.062612613
+Arts,2020,Very Dissatisfied,225,0.094379195,-0.094379195
+Arts,2018,Very Dissatisfied,195,0.098834263,-0.098834263
+Arts,2016,Very Dissatisfied,187,0.096941420,-0.096941420
+Arts,2014,Very Dissatisfied,175,0.085952849,-0.085952849
+Arts,2012,Very Dissatisfied,185,0.098666667,-0.098666667
+Arts,2010,Very Dissatisfied,236,0.096681688,-0.096681688
+Arts,2008,Very Dissatisfied,189,0.067140320,-0.067140320
+Arts,2006,Very Dissatisfied,154,0.059922179,-0.059922179
+Arts,2022,Somewhat Satisfied,714,0.321621622,0.321621622
+Arts,2020,Somewhat Satisfied,699,0.293204698,0.293204698
+Arts,2018,Somewhat Satisfied,527,0.267105930,0.267105930
+Arts,2016,Somewhat Satisfied,564,0.292379471,0.292379471
+Arts,2014,Somewhat Satisfied,607,0.298133595,0.298133595
+Arts,2012,Somewhat Satisfied,550,0.293333333,0.293333333
+Arts,2010,Somewhat Satisfied,676,0.276935682,0.276935682
+Arts,2008,Somewhat Satisfied,794,0.282060391,0.282060391
+Arts,2006,Somewhat Satisfied,719,0.279766537,0.279766537
+Arts,2022,Satisfied,513,0.231081081,0.231081081
+Arts,2020,Satisfied,499,0.209312081,0.209312081
+Arts,2018,Satisfied,469,0.237709072,0.237709072
+Arts,2016,Satisfied,450,0.233281493,0.233281493
+Arts,2014,Satisfied,498,0.244597250,0.244597250
+Arts,2012,Satisfied,406,0.216533333,0.216533333
+Arts,2010,Satisfied,554,0.226956166,0.226956166
+Arts,2008,Satisfied,753,0.267495560,0.267495560
+Arts,2006,Satisfied,669,0.260311284,0.260311284
+Arts,2022,Very Satisfied,211,0.095045045,0.095045045
+Arts,2020,Very Satisfied,225,0.094379195,0.094379195
+Arts,2018,Very Satisfied,233,0.118094273,0.118094273
+Arts,2016,Very Satisfied,210,0.108864697,0.108864697
+Arts,2014,Very Satisfied,214,0.105108055,0.105108055
+Arts,2012,Very Satisfied,153,0.0816,0.0816
+Arts,2010,Very Satisfied,244,0.099959033,0.099959033
+Arts,2008,Very Satisfied,365,0.129662522,0.129662522
+Arts,2006,Very Satisfied,344,0.133852140,0.133852140
+Eng/CS,2022,Somewhat Dissatisfied,1722,0.175071167,-0.175071167
+Eng/CS,2020,Somewhat Dissatisfied,1961,0.185489974,-0.185489974
+Eng/CS,2018,Somewhat Dissatisfied,1664,0.182616330,-0.182616330
+Eng/CS,2016,Somewhat Dissatisfied,1565,0.183556181,-0.183556181
+Eng/CS,2014,Somewhat Dissatisfied,1513,0.183194091,-0.183194091
+Eng/CS,2012,Somewhat Dissatisfied,1484,0.193178860,-0.193178860
+Eng/CS,2010,Somewhat Dissatisfied,1455,0.182490907,-0.182490907
+Eng/CS,2008,Somewhat Dissatisfied,1081,0.151104277,-0.151104277
+Eng/CS,2006,Somewhat Dissatisfied,1154,0.162146972,-0.162146972
+Eng/CS,2022,Dissatisfied,893,0.090788939,-0.090788939
+Eng/CS,2020,Dissatisfied,1090,0.103102535,-0.103102535
+Eng/CS,2018,Dissatisfied,884,0.097014925,-0.097014925
+Eng/CS,2016,Dissatisfied,894,0.104855735,-0.104855735
+Eng/CS,2014,Dissatisfied,876,0.106066110,-0.106066110
+Eng/CS,2012,Dissatisfied,859,0.111819839,-0.111819839
+Eng/CS,2010,Dissatisfied,756,0.094820018,-0.094820018
+Eng/CS,2008,Dissatisfied,561,0.078417668,-0.078417668
+Eng/CS,2006,Dissatisfied,623,0.087536884,-0.087536884
+Eng/CS,2022,Very Dissatisfied,448,0.045546970,-0.045546970
+Eng/CS,2020,Very Dissatisfied,828,0.078320091,-0.078320091
+Eng/CS,2018,Very Dissatisfied,818,0.089771730,-0.089771730
+Eng/CS,2016,Very Dissatisfied,763,0.089490969,-0.089490969
+Eng/CS,2014,Very Dissatisfied,686,0.083060903,-0.083060903
+Eng/CS,2012,Very Dissatisfied,693,0.090210883,-0.090210883
+Eng/CS,2010,Very Dissatisfied,559,0.070111627,-0.070111627
+Eng/CS,2008,Very Dissatisfied,456,0.063740565,-0.063740565
+Eng/CS,2006,Very Dissatisfied,383,0.053814810,-0.053814810
+Eng/CS,2022,Somewhat Satisfied,3085,0.313643758,0.313643758
+Eng/CS,2020,Somewhat Satisfied,3215,0.304105184,0.304105184
+Eng/CS,2018,Somewhat Satisfied,2710,0.297410009,0.297410009
+Eng/CS,2016,Somewhat Satisfied,2537,0.297560403,0.297560403
+Eng/CS,2014,Somewhat Satisfied,2530,0.306332486,0.306332486
+Eng/CS,2012,Somewhat Satisfied,2236,0.291070034,0.291070034
+Eng/CS,2010,Somewhat Satisfied,2258,0.283205820,0.283205820
+Eng/CS,2008,Somewhat Satisfied,2029,0.283617557,0.283617557
+Eng/CS,2006,Somewhat Satisfied,1951,0.274132359,0.274132359
+Eng/CS,2022,Satisfied,2567,0.260980073,0.260980073
+Eng/CS,2020,Satisfied,2475,0.234108967,0.234108967
+Eng/CS,2018,Satisfied,2090,0.229367867,0.229367867
+Eng/CS,2016,Satisfied,1882,0.220736570,0.220736570
+Eng/CS,2014,Satisfied,1870,0.226419663,0.226419663
+Eng/CS,2012,Satisfied,1724,0.224420724,0.224420724
+Eng/CS,2010,Satisfied,2025,0.253982190,0.253982190
+Eng/CS,2008,Satisfied,1969,0.275230640,0.275230640
+Eng/CS,2006,Satisfied,1888,0.265280315,0.265280315
+Eng/CS,2022,Very Satisfied,1121,0.113969093,0.113969093
+Eng/CS,2020,Very Satisfied,1003,0.094873250,0.094873250
+Eng/CS,2018,Very Satisfied,946,0.103819140,0.103819140
+Eng/CS,2016,Very Satisfied,885,0.103800141,0.103800141
+Eng/CS,2014,Very Satisfied,784,0.094926747,0.094926747
+Eng/CS,2012,Very Satisfied,686,0.089299662,0.089299662
+Eng/CS,2010,Very Satisfied,920,0.115389439,0.115389439
+Eng/CS,2008,Very Satisfied,1058,0.147889293,0.147889293
+Eng/CS,2006,Very Satisfied,1118,0.157088661,0.157088661
+Health/Prof Fields,2022,Somewhat Dissatisfied,1120,0.174699735,-0.174699735
+Health/Prof Fields,2020,Somewhat Dissatisfied,1327,0.184126544,-0.184126544
+Health/Prof Fields,2018,Somewhat Dissatisfied,1095,0.182378414,-0.182378414
+Health/Prof Fields,2016,Somewhat Dissatisfied,1077,0.194334175,-0.194334175
+Health/Prof Fields,2014,Somewhat Dissatisfied,976,0.179279941,-0.179279941
+Health/Prof Fields,2012,Somewhat Dissatisfied,970,0.195761857,-0.195761857
+Health/Prof Fields,2010,Somewhat Dissatisfied,1037,0.188888889,-0.188888889
+Health/Prof Fields,2008,Somewhat Dissatisfied,875,0.157515752,-0.157515752
+Health/Prof Fields,2006,Somewhat Dissatisfied,674,0.147904323,-0.147904323
+Health/Prof Fields,2022,Dissatisfied,594,0.092653252,-0.092653252
+Health/Prof Fields,2020,Dissatisfied,729,0.101151658,-0.101151658
+Health/Prof Fields,2018,Dissatisfied,562,0.093604264,-0.093604264
+Health/Prof Fields,2016,Dissatisfied,549,0.099061711,-0.099061711
+Health/Prof Fields,2014,Dissatisfied,576,0.105804555,-0.105804555
+Health/Prof Fields,2012,Dissatisfied,562,0.113420787,-0.113420787
+Health/Prof Fields,2010,Dissatisfied,648,0.118032787,-0.118032787
+Health/Prof Fields,2008,Dissatisfied,480,0.086408641,-0.086408641
+Health/Prof Fields,2006,Dissatisfied,355,0.077902129,-0.077902129
+Health/Prof Fields,2022,Very Dissatisfied,281,0.043830916,-0.043830916
+Health/Prof Fields,2020,Very Dissatisfied,538,0.074649646,-0.074649646
+Health/Prof Fields,2018,Very Dissatisfied,491,0.081778814,-0.081778814
+Health/Prof Fields,2016,Very Dissatisfied,447,0.080656803,-0.080656803
+Health/Prof Fields,2014,Very Dissatisfied,404,0.074210140,-0.074210140
+Health/Prof Fields,2012,Very Dissatisfied,471,0.095055499,-0.095055499
+Health/Prof Fields,2010,Very Dissatisfied,406,0.073952641,-0.073952641
+Health/Prof Fields,2008,Very Dissatisfied,308,0.055445545,-0.055445545
+Health/Prof Fields,2006,Very Dissatisfied,260,0.057055080,-0.057055080
+Health/Prof Fields,2022,Somewhat Satisfied,1996,0.311339885,0.311339885
+Health/Prof Fields,2020,Somewhat Satisfied,2213,0.307062578,0.307062578
+Health/Prof Fields,2018,Somewhat Satisfied,1779,0.296302465,0.296302465
+Health/Prof Fields,2016,Somewhat Satisfied,1690,0.304944064,0.304944064
+Health/Prof Fields,2014,Somewhat Satisfied,1691,0.310617193,0.310617193
+Health/Prof Fields,2012,Somewhat Satisfied,1416,0.285771948,0.285771948
+Health/Prof Fields,2010,Somewhat Satisfied,1612,0.293624772,0.293624772
+Health/Prof Fields,2008,Somewhat Satisfied,1712,0.308190819,0.308190819
+Health/Prof Fields,2006,Somewhat Satisfied,1312,0.287908712,0.287908712
+Health/Prof Fields,2022,Satisfied,1691,0.263765403,0.263765403
+Health/Prof Fields,2020,Satisfied,1701,0.236020536,0.236020536
+Health/Prof Fields,2018,Satisfied,1441,0.240006662,0.240006662
+Health/Prof Fields,2016,Satisfied,1265,0.228256947,0.228256947
+Health/Prof Fields,2014,Satisfied,1283,0.235672300,0.235672300
+Health/Prof Fields,2012,Satisfied,1149,0.231886983,0.231886983
+Health/Prof Fields,2010,Satisfied,1272,0.231693989,0.231693989
+Health/Prof Fields,2008,Satisfied,1497,0.269486949,0.269486949
+Health/Prof Fields,2006,Satisfied,1254,0.275181040,0.275181040
+Health/Prof Fields,2022,Very Satisfied,729,0.113710810,0.113710810
+Health/Prof Fields,2020,Very Satisfied,699,0.096989038,0.096989038
+Health/Prof Fields,2018,Very Satisfied,636,0.105929380,0.105929380
+Health/Prof Fields,2016,Very Satisfied,514,0.092746301,0.092746301
+Health/Prof Fields,2014,Very Satisfied,514,0.094415871,0.094415871
+Health/Prof Fields,2012,Very Satisfied,387,0.078102926,0.078102926
+Health/Prof Fields,2010,Very Satisfied,515,0.093806922,0.093806922
+Health/Prof Fields,2008,Very Satisfied,683,0.122952295,0.122952295
+Health/Prof Fields,2006,Very Satisfied,702,0.154048716,0.154048716
+Humani- ties,2022,Somewhat Dissatisfied,1068,0.155164899,-0.155164899
+Humani- ties,2020,Somewhat Dissatisfied,625,0.165738531,-0.165738531
+Humani- ties,2018,Somewhat Dissatisfied,496,0.143518519,-0.143518519
+Humani- ties,2016,Somewhat Dissatisfied,475,0.141621944,-0.141621944
+Humani- ties,2014,Somewhat Dissatisfied,577,0.156368564,-0.156368564
+Humani- ties,2012,Somewhat Dissatisfied,700,0.166984733,-0.166984733
+Humani- ties,2010,Somewhat Dissatisfied,759,0.152440249,-0.152440249
+Humani- ties,2008,Somewhat Dissatisfied,671,0.119140625,-0.119140625
+Humani- ties,2006,Somewhat Dissatisfied,663,0.125236116,-0.125236116
+Humani- ties,2022,Dissatisfied,523,0.075984309,-0.075984309
+Humani- ties,2020,Dissatisfied,363,0.096260939,-0.096260939
+Humani- ties,2018,Dissatisfied,301,0.087094907,-0.087094907
+Humani- ties,2016,Dissatisfied,335,0.099880739,-0.099880739
+Humani- ties,2014,Dissatisfied,283,0.076693767,-0.076693767
+Humani- ties,2012,Dissatisfied,418,0.099713740,-0.099713740
+Humani- ties,2010,Dissatisfied,450,0.090379594,-0.090379594
+Humani- ties,2008,Dissatisfied,358,0.063565341,-0.063565341
+Humani- ties,2006,Dissatisfied,334,0.063090291,-0.063090291
+Humani- ties,2022,Very Dissatisfied,336,0.048815923,-0.048815923
+Humani- ties,2020,Very Dissatisfied,255,0.067621321,-0.067621321
+Humani- ties,2018,Very Dissatisfied,264,0.076388889,-0.076388889
+Humani- ties,2016,Very Dissatisfied,254,0.075730471,-0.075730471
+Humani- ties,2014,Very Dissatisfied,253,0.068563686,-0.068563686
+Humani- ties,2012,Very Dissatisfied,350,0.083492366,-0.083492366
+Humani- ties,2010,Very Dissatisfied,376,0.075517172,-0.075517172
+Humani- ties,2008,Very Dissatisfied,289,0.051313920,-0.051313920
+Humani- ties,2006,Very Dissatisfied,251,0.047412165,-0.047412165
+Humani- ties,2022,Somewhat Satisfied,2062,0.299578672,0.299578672
+Humani- ties,2020,Somewhat Satisfied,1060,0.281092548,0.281092548
+Humani- ties,2018,Somewhat Satisfied,918,0.265625,0.265625
+Humani- ties,2016,Somewhat Satisfied,902,0.268932618,0.268932618
+Humani- ties,2014,Somewhat Satisfied,1018,0.275880759,0.275880759
+Humani- ties,2012,Somewhat Satisfied,1083,0.258349237,0.258349237
+Humani- ties,2010,Somewhat Satisfied,1330,0.267121912,0.267121912
+Humani- ties,2008,Somewhat Satisfied,1438,0.255326705,0.255326705
+Humani- ties,2006,Somewhat Satisfied,1326,0.250472233,0.250472233
+Humani- ties,2022,Satisfied,1899,0.275897138,0.275897138
+Humani- ties,2020,Satisfied,970,0.257226200,0.257226200
+Humani- ties,2018,Satisfied,917,0.265335648,0.265335648
+Humani- ties,2016,Satisfied,865,0.257901014,0.257901014
+Humani- ties,2014,Satisfied,989,0.268021680,0.268021680
+Humani- ties,2012,Satisfied,1101,0.262643130,0.262643130
+Humani- ties,2010,Satisfied,1325,0.266117694,0.266117694
+Humani- ties,2008,Satisfied,1735,0.308061080,0.308061080
+Humani- ties,2006,Satisfied,1561,0.294862108,0.294862108
+Humani- ties,2022,Very Satisfied,995,0.144559059,0.144559059
+Humani- ties,2020,Very Satisfied,498,0.132060461,0.132060461
+Humani- ties,2018,Very Satisfied,560,0.162037037,0.162037037
+Humani- ties,2016,Very Satisfied,523,0.155933214,0.155933214
+Humani- ties,2014,Very Satisfied,570,0.154471545,0.154471545
+Humani- ties,2012,Very Satisfied,540,0.128816794,0.128816794
+Humani- ties,2010,Very Satisfied,739,0.148423378,0.148423378
+Humani- ties,2008,Very Satisfied,1141,0.202592330,0.202592330
+Humani- ties,2006,Very Satisfied,1159,0.218927087,0.218927087
+Life Sciences,2022,Somewhat Dissatisfied,2311,0.183398143,-0.183398143
+Life Sciences,2020,Somewhat Dissatisfied,2789,0.203117034,-0.203117034
+Life Sciences,2018,Somewhat Dissatisfied,2350,0.199034471,-0.199034471
+Life Sciences,2016,Somewhat Dissatisfied,2400,0.203303685,-0.203303685
+Life Sciences,2014,Somewhat Dissatisfied,2380,0.194794565,-0.194794565
+Life Sciences,2012,Somewhat Dissatisfied,2415,0.207456404,-0.207456404
+Life Sciences,2010,Somewhat Dissatisfied,2372,0.191259474,-0.191259474
+Life Sciences,2008,Somewhat Dissatisfied,2054,0.176188025,-0.176188025
+Life Sciences,2006,Somewhat Dissatisfied,1643,0.173770492,-0.173770492
+Life Sciences,2022,Dissatisfied,1227,0.097373224,-0.097373224
+Life Sciences,2020,Dissatisfied,1551,0.112956085,-0.112956085
+Life Sciences,2018,Dissatisfied,1246,0.105530617,-0.105530617
+Life Sciences,2016,Dissatisfied,1314,0.111308767,-0.111308767
+Life Sciences,2014,Dissatisfied,1335,0.109265019,-0.109265019
+Life Sciences,2012,Dissatisfied,1400,0.120264582,-0.120264582
+Life Sciences,2010,Dissatisfied,1359,0.109579100,-0.109579100
+Life Sciences,2008,Dissatisfied,1043,0.089466461,-0.089466461
+Life Sciences,2006,Dissatisfied,807,0.085351666,-0.085351666
+Life Sciences,2022,Very Dissatisfied,606,0.048091421,-0.048091421
+Life Sciences,2020,Very Dissatisfied,1036,0.075449712,-0.075449712
+Life Sciences,2018,Very Dissatisfied,1048,0.088760905,-0.088760905
+Life Sciences,2016,Very Dissatisfied,1007,0.085302838,-0.085302838
+Life Sciences,2014,Very Dissatisfied,980,0.080209527,-0.080209527
+Life Sciences,2012,Very Dissatisfied,1118,0.096039859,-0.096039859
+Life Sciences,2010,Very Dissatisfied,1016,0.081922271,-0.081922271
+Life Sciences,2008,Very Dissatisfied,766,0.065705953,-0.065705953
+Life Sciences,2006,Very Dissatisfied,570,0.060285563,-0.060285563
+Life Sciences,2022,Somewhat Satisfied,4162,0.330291247,0.330291247
+Life Sciences,2020,Somewhat Satisfied,4213,0.306823975,0.306823975
+Life Sciences,2018,Somewhat Satisfied,3563,0.301770136,0.301770136
+Life Sciences,2016,Somewhat Satisfied,3495,0.296060991,0.296060991
+Life Sciences,2014,Somewhat Satisfied,3688,0.301849730,0.301849730
+Life Sciences,2012,Somewhat Satisfied,3504,0.301005068,0.301005068
+Life Sciences,2010,Somewhat Satisfied,3733,0.300999839,0.300999839
+Life Sciences,2008,Somewhat Satisfied,3421,0.293446560,0.293446560
+Life Sciences,2006,Somewhat Satisfied,2744,0.290216816,0.290216816
+Life Sciences,2022,Satisfied,3223,0.255773351,0.255773351
+Life Sciences,2020,Satisfied,3094,0.225329546,0.225329546
+Life Sciences,2018,Satisfied,2615,0.221478784,0.221478784
+Life Sciences,2016,Satisfied,2549,0.215925455,0.215925455
+Life Sciences,2014,Satisfied,2872,0.235063022,0.235063022
+Life Sciences,2012,Satisfied,2415,0.207456404,0.207456404
+Life Sciences,2010,Satisfied,2875,0.231817449,0.231817449
+Life Sciences,2008,Satisfied,3042,0.260936696,0.260936696
+Life Sciences,2006,Satisfied,2531,0.267689053,0.267689053
+Life Sciences,2022,Very Satisfied,1072,0.085072613,0.085072613
+Life Sciences,2020,Very Satisfied,1048,0.076323647,0.076323647
+Life Sciences,2018,Very Satisfied,985,0.083425087,0.083425087
+Life Sciences,2016,Very Satisfied,1040,0.088098263,0.088098263
+Life Sciences,2014,Very Satisfied,963,0.078818137,0.078818137
+Life Sciences,2012,Very Satisfied,789,0.067777682,0.067777682
+Life Sciences,2010,Very Satisfied,1047,0.084421867,0.084421867
+Life Sciences,2008,Very Satisfied,1332,0.114256305,0.114256305
+Life Sciences,2006,Very Satisfied,1160,0.122686409,0.122686409
+Phys Sci/ Math,2022,Somewhat Dissatisfied,890,0.187922297,-0.187922297
+Phys Sci/ Math,2020,Somewhat Dissatisfied,1018,0.192620624,-0.192620624
+Phys Sci/ Math,2018,Somewhat Dissatisfied,777,0.181796912,-0.181796912
+Phys Sci/ Math,2016,Somewhat Dissatisfied,795,0.191105769,-0.191105769
+Phys Sci/ Math,2014,Somewhat Dissatisfied,709,0.188163482,-0.188163482
+Phys Sci/ Math,2012,Somewhat Dissatisfied,671,0.189708793,-0.189708793
+Phys Sci/ Math,2010,Somewhat Dissatisfied,545,0.164652568,-0.164652568
+Phys Sci/ Math,2008,Somewhat Dissatisfied,489,0.155931122,-0.155931122
+Phys Sci/ Math,2006,Somewhat Dissatisfied,453,0.168966803,-0.168966803
+Phys Sci/ Math,2022,Dissatisfied,474,0.100084459,-0.100084459
+Phys Sci/ Math,2020,Dissatisfied,585,0.110690634,-0.110690634
+Phys Sci/ Math,2018,Dissatisfied,458,0.107159569,-0.107159569
+Phys Sci/ Math,2016,Dissatisfied,496,0.119230769,-0.119230769
+Phys Sci/ Math,2014,Dissatisfied,366,0.097133758,-0.097133758
+Phys Sci/ Math,2012,Dissatisfied,387,0.109414758,-0.109414758
+Phys Sci/ Math,2010,Dissatisfied,340,0.102719033,-0.102719033
+Phys Sci/ Math,2008,Dissatisfied,236,0.075255102,-0.075255102
+Phys Sci/ Math,2006,Dissatisfied,238,0.088772846,-0.088772846
+Phys Sci/ Math,2022,Very Dissatisfied,278,0.058699324,-0.058699324
+Phys Sci/ Math,2020,Very Dissatisfied,454,0.085903500,-0.085903500
+Phys Sci/ Math,2018,Very Dissatisfied,443,0.103649977,-0.103649977
+Phys Sci/ Math,2016,Very Dissatisfied,404,0.097115385,-0.097115385
+Phys Sci/ Math,2014,Very Dissatisfied,310,0.082271762,-0.082271762
+Phys Sci/ Math,2012,Very Dissatisfied,358,0.101215720,-0.101215720
+Phys Sci/ Math,2010,Very Dissatisfied,275,0.083081571,-0.083081571
+Phys Sci/ Math,2008,Very Dissatisfied,199,0.063456633,-0.063456633
+Phys Sci/ Math,2006,Very Dissatisfied,152,0.056695263,-0.056695263
+Phys Sci/ Math,2022,Somewhat Satisfied,1454,0.307010135,0.307010135
+Phys Sci/ Math,2020,Somewhat Satisfied,1600,0.302743614,0.302743614
+Phys Sci/ Math,2018,Somewhat Satisfied,1260,0.294805803,0.294805803
+Phys Sci/ Math,2016,Somewhat Satisfied,1162,0.279326923,0.279326923
+Phys Sci/ Math,2014,Somewhat Satisfied,1171,0.310774947,0.310774947
+Phys Sci/ Math,2012,Somewhat Satisfied,1045,0.295448120,0.295448120
+Phys Sci/ Math,2010,Somewhat Satisfied,983,0.296978852,0.296978852
+Phys Sci/ Math,2008,Somewhat Satisfied,850,0.271045918,0.271045918
+Phys Sci/ Math,2006,Somewhat Satisfied,730,0.272286460,0.272286460
+Phys Sci/ Math,2022,Satisfied,1160,0.244932432,0.244932432
+Phys Sci/ Math,2020,Satisfied,1150,0.217596973,0.217596973
+Phys Sci/ Math,2018,Satisfied,935,0.218764623,0.218764623
+Phys Sci/ Math,2016,Satisfied,935,0.224759615,0.224759615
+Phys Sci/ Math,2014,Satisfied,855,0.226910828,0.226910828
+Phys Sci/ Math,2012,Satisfied,790,0.223353124,0.223353124
+Phys Sci/ Math,2010,Satisfied,807,0.243806647,0.243806647
+Phys Sci/ Math,2008,Satisfied,873,0.278380102,0.278380102
+Phys Sci/ Math,2006,Satisfied,690,0.257366654,0.257366654
+Phys Sci/ Math,2022,Very Satisfied,480,0.101351351,0.101351351
+Phys Sci/ Math,2020,Very Satisfied,478,0.090444655,0.090444655
+Phys Sci/ Math,2018,Very Satisfied,401,0.093823117,0.093823117
+Phys Sci/ Math,2016,Very Satisfied,368,0.088461538,0.088461538
+Phys Sci/ Math,2014,Very Satisfied,357,0.094745223,0.094745223
+Phys Sci/ Math,2012,Very Satisfied,286,0.080859485,0.080859485
+Phys Sci/ Math,2010,Very Satisfied,360,0.108761329,0.108761329
+Phys Sci/ Math,2008,Very Satisfied,489,0.155931122,0.155931122
+Phys Sci/ Math,2006,Very Satisfied,418,0.155911973,0.155911973
+Social Sci/Psy,2022,Somewhat Dissatisfied,2308,0.169618579,-0.169618579
+Social Sci/Psy,2020,Somewhat Dissatisfied,2744,0.185656292,-0.185656292
+Social Sci/Psy,2018,Somewhat Dissatisfied,2050,0.166707327,-0.166707327
+Social Sci/Psy,2016,Somewhat Dissatisfied,2055,0.172907026,-0.172907026
+Social Sci/Psy,2014,Somewhat Dissatisfied,2096,0.165796551,-0.165796551
+Social Sci/Psy,2012,Somewhat Dissatisfied,2264,0.182521767,-0.182521767
+Social Sci/Psy,2010,Somewhat Dissatisfied,2429,0.178432381,-0.178432381
+Social Sci/Psy,2008,Somewhat Dissatisfied,2134,0.155652808,-0.155652808
+Social Sci/Psy,2006,Somewhat Dissatisfied,1916,0.152377923,-0.152377923
+Social Sci/Psy,2022,Dissatisfied,1292,0.094951128,-0.094951128
+Social Sci/Psy,2020,Dissatisfied,1567,0.106021651,-0.106021651
+Social Sci/Psy,2018,Dissatisfied,1195,0.097178174,-0.097178174
+Social Sci/Psy,2016,Dissatisfied,1147,0.096508204,-0.096508204
+Social Sci/Psy,2014,Dissatisfied,1194,0.094447081,-0.094447081
+Social Sci/Psy,2012,Dissatisfied,1442,0.116252822,-0.116252822
+Social Sci/Psy,2010,Dissatisfied,1388,0.101961360,-0.101961360
+Social Sci/Psy,2008,Dissatisfied,1046,0.076294675,-0.076294675
+Social Sci/Psy,2006,Dissatisfied,952,0.075711786,-0.075711786
+Social Sci/Psy,2022,Very Dissatisfied,652,0.047916514,-0.047916514
+Social Sci/Psy,2020,Very Dissatisfied,1203,0.081393775,-0.081393775
+Social Sci/Psy,2018,Very Dissatisfied,945,0.076848012,-0.076848012
+Social Sci/Psy,2016,Very Dissatisfied,1037,0.087252840,-0.087252840
+Social Sci/Psy,2014,Very Dissatisfied,1005,0.079496915,-0.079496915
+Social Sci/Psy,2012,Very Dissatisfied,1235,0.099564657,-0.099564657
+Social Sci/Psy,2010,Very Dissatisfied,1105,0.081172409,-0.081172409
+Social Sci/Psy,2008,Very Dissatisfied,817,0.059591539,-0.059591539
+Social Sci/Psy,2006,Very Dissatisfied,611,0.048592333,-0.048592333
+Social Sci/Psy,2022,Somewhat Satisfied,4130,0.303520247,0.303520247
+Social Sci/Psy,2020,Somewhat Satisfied,4299,0.290866035,0.290866035
+Social Sci/Psy,2018,Somewhat Satisfied,3544,0.288200374,0.288200374
+Social Sci/Psy,2016,Somewhat Satisfied,3421,0.287841817,0.287841817
+Social Sci/Psy,2014,Somewhat Satisfied,3720,0.294257238,0.294257238
+Social Sci/Psy,2012,Somewhat Satisfied,3528,0.284424379,0.284424379
+Social Sci/Psy,2010,Somewhat Satisfied,3884,0.285315507,0.285315507
+Social Sci/Psy,2008,Somewhat Satisfied,3812,0.278045222,0.278045222
+Social Sci/Psy,2006,Somewhat Satisfied,3436,0.273262287,0.273262287
+Social Sci/Psy,2022,Satisfied,3603,0.264790182,0.264790182
+Social Sci/Psy,2020,Satisfied,3515,0.237821380,0.237821380
+Social Sci/Psy,2018,Satisfied,3098,0.251931365,0.251931365
+Social Sci/Psy,2016,Satisfied,2815,0.236853176,0.236853176
+Social Sci/Psy,2014,Satisfied,3179,0.251463376,0.251463376
+Social Sci/Psy,2012,Satisfied,2828,0.227990971,0.227990971
+Social Sci/Psy,2010,Satisfied,3318,0.243737604,0.243737604
+Social Sci/Psy,2008,Satisfied,3856,0.281254559,0.281254559
+Social Sci/Psy,2006,Satisfied,3570,0.283919198,0.283919198
+Social Sci/Psy,2022,Very Satisfied,1622,0.119203351,0.119203351
+Social Sci/Psy,2020,Very Satisfied,1452,0.098240866,0.098240866
+Social Sci/Psy,2018,Very Satisfied,1465,0.119134748,0.119134748
+Social Sci/Psy,2016,Very Satisfied,1410,0.118636937,0.118636937
+Social Sci/Psy,2014,Very Satisfied,1448,0.114538839,0.114538839
+Social Sci/Psy,2012,Very Satisfied,1107,0.089245405,0.089245405
+Social Sci/Psy,2010,Very Satisfied,1489,0.109380739,0.109380739
+Social Sci/Psy,2008,Very Satisfied,2045,0.149161196,0.149161196
+Social Sci/Psy,2006,Very Satisfied,2089,0.166136472,0.166136472
+Undeclared /Other,2022,Somewhat Dissatisfied,1209,0.212142481,-0.212142481
+Undeclared /Other,2020,Somewhat Dissatisfied,1927,0.201569038,-0.201569038
+Undeclared /Other,2018,Somewhat Dissatisfied,1888,0.192928674,-0.192928674
+Undeclared /Other,2016,Somewhat Dissatisfied,1700,0.194708510,-0.194708510
+Undeclared /Other,2014,Somewhat Dissatisfied,1851,0.189379988,-0.189379988
+Undeclared /Other,2012,Somewhat Dissatisfied,1729,0.192624777,-0.192624777
+Undeclared /Other,2010,Somewhat Dissatisfied,2376,0.187248798,-0.187248798
+Undeclared /Other,2008,Somewhat Dissatisfied,1958,0.155359835,-0.155359835
+Undeclared /Other,2006,Somewhat Dissatisfied,2085,0.162143246,-0.162143246
+Undeclared /Other,2022,Dissatisfied,648,0.113704159,-0.113704159
+Undeclared /Other,2020,Dissatisfied,1079,0.112866109,-0.112866109
+Undeclared /Other,2018,Dissatisfied,1154,0.117923564,-0.117923564
+Undeclared /Other,2016,Dissatisfied,1011,0.115794296,-0.115794296
+Undeclared /Other,2014,Dissatisfied,980,0.100266012,-0.100266012
+Undeclared /Other,2012,Dissatisfied,1102,0.122771836,-0.122771836
+Undeclared /Other,2010,Dissatisfied,1451,0.114351013,-0.114351013
+Undeclared /Other,2008,Dissatisfied,1078,0.085535190,-0.085535190
+Undeclared /Other,2006,Dissatisfied,1108,0.086165332,-0.086165332
+Undeclared /Other,2022,Very Dissatisfied,341,0.059835059,-0.059835059
+Undeclared /Other,2020,Very Dissatisfied,835,0.087343096,-0.087343096
+Undeclared /Other,2018,Very Dissatisfied,955,0.097588392,-0.097588392
+Undeclared /Other,2016,Very Dissatisfied,868,0.099415874,-0.099415874
+Undeclared /Other,2014,Very Dissatisfied,756,0.077348066,-0.077348066
+Undeclared /Other,2012,Very Dissatisfied,841,0.093694296,-0.093694296
+Undeclared /Other,2010,Very Dissatisfied,1107,0.087240917,-0.087240917
+Undeclared /Other,2008,Very Dissatisfied,744,0.059033563,-0.059033563
+Undeclared /Other,2006,Very Dissatisfied,669,0.052025818,-0.052025818
+Undeclared /Other,2022,Somewhat Satisfied,1806,0.316897701,0.316897701
+Undeclared /Other,2020,Somewhat Satisfied,2783,0.291108787,0.291108787
+Undeclared /Other,2018,Somewhat Satisfied,2923,0.298692009,0.298692009
+Undeclared /Other,2016,Somewhat Satisfied,2597,0.297445882,0.297445882
+Undeclared /Other,2014,Somewhat Satisfied,2984,0.305299775,0.305299775
+Undeclared /Other,2012,Somewhat Satisfied,2686,0.299242424,0.299242424
+Undeclared /Other,2010,Somewhat Satisfied,3642,0.287020254,0.287020254
+Undeclared /Other,2008,Somewhat Satisfied,3674,0.291517893,0.291517893
+Undeclared /Other,2006,Somewhat Satisfied,3770,0.293179874,0.293179874
+Undeclared /Other,2022,Satisfied,1232,0.216178277,0.216178277
+Undeclared /Other,2020,Satisfied,2062,0.215690377,0.215690377
+Undeclared /Other,2018,Satisfied,2029,0.207337012,0.207337012
+Undeclared /Other,2016,Satisfied,1871,0.214293895,0.214293895
+Undeclared /Other,2014,Satisfied,2291,0.234397381,0.234397381
+Undeclared /Other,2012,Satisfied,1896,0.211229947,0.211229947
+Undeclared /Other,2010,Satisfied,2882,0.227125857,0.227125857
+Undeclared /Other,2008,Satisfied,3462,0.274696501,0.274696501
+Undeclared /Other,2006,Satisfied,3496,0.271871841,0.271871841
+Undeclared /Other,2022,Very Satisfied,463,0.081242323,0.081242323
+Undeclared /Other,2020,Very Satisfied,874,0.091422594,0.091422594
+Undeclared /Other,2018,Very Satisfied,837,0.085530349,0.085530349
+Undeclared /Other,2016,Very Satisfied,684,0.078341542,0.078341542
+Undeclared /Other,2014,Very Satisfied,912,0.093308778,0.093308778
+Undeclared /Other,2012,Very Satisfied,722,0.080436720,0.080436720
+Undeclared /Other,2010,Very Satisfied,1231,0.097013161,0.097013161
+Undeclared /Other,2008,Very Satisfied,1687,0.133857018,0.133857018
+Undeclared /Other,2006,Very Satisfied,1731,0.134613889,0.134613889
